@@ -1,11 +1,11 @@
 # Lua LÖVE Template Repository
 
-> A template repository that Lua LÖVE projects can inherit from to ensure tooling
-> consistency
+> A template repository that Lua LÖVE projects can inherit from to ensure
+> tooling consistency
 
 ## Table of Contents
 
-- [Lua LÖVE Template Repository](#lua-LÖVE-template-repository)
+- [Lua LÖVE Template Repository](#lua-L%C3%96VE-template-repository)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Supported Tooling](#supported-tooling)
@@ -37,4 +37,3 @@ extending this template is encouraged
 - File: [.gitignore](.gitignore)
 - Documentation:
   [https://git-scm.com/docs/gitignore](https://git-scm.com/docs/gitignore)
-
